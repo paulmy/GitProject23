@@ -1,2 +1,2 @@
 # GitProject23
-TestGitUpload
+# Тестовое приложение для Samsung
